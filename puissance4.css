@@ -1,0 +1,19 @@
+p{
+    margin-top: -16px;
+}
+div{
+    margin-top: 100px;
+    margin-left: 100px; 
+}
+#socle{
+    margin-top: -16px;
+    margin-left: 43px;
+}
+
+#erreur{
+    visibility: hidden;
+}
+
+#victoire{
+    visibility: hidden;
+}
